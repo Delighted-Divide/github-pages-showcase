@@ -1,0 +1,7 @@
+{
+  "prompt": "Exact generation prompt unavailable. Final selected image: an archival butterfly specimen board under warm museum light, with vivid surviving butterflies concentrated on the left and increasingly faded, damaged, ghostlike traces, pinholes, and empty positions extending to the right, communicating large-scale butterfly decline without text, labels, axes, or chart forms.",
+  "model": "Unknown (user-provided AI-generated image)",
+  "dataset_name": "Twenty years (2000-2020) of butterfly monitoring data across the contiguous United States",
+  "dataset_url": "https://doi.org/10.6084/m9.figshare.27934602.v1",
+  "insight": "Across 35 U.S. monitoring programs, butterfly abundance fell by 22% between 2000 and 2020."
+}
