@@ -1,0 +1,7 @@
+{
+  "prompt": "Single-frame editorial cover image for a long-form magazine story about wildlife collapse, built around the insight that monitored vertebrate wildlife populations have declined 73% on average since 1970. Show an open natural-history specimen drawer under dramatic gallery light. There are exactly 100 pinned moth and butterfly specimen positions: only 27 remain vivid and intact, while 73 survive only as ash-pale dust silhouettes, empty pinholes, and ghost imprints. Avoid charts, labels, legends, numbers, globes, thermometers, melting ice, clip-art infographic language, and split-panel layouts. Make the composition feel elegiac, tactile, and quietly devastating, with museum textures, deep charcoal velvet, distressed wood, soft gold light, and a diagonal wave of disappearance swallowing the drawer.",
+  "model": "Python 3 SVG composition (programmatic image authoring)",
+  "dataset_name": "WWF Living Planet Report 2024 / Living Planet Index",
+  "dataset_url": "https://livingplanet.panda.org/",
+  "insight": "Monitored vertebrate wildlife populations declined by 73% on average between 1970 and 2020."
+}
