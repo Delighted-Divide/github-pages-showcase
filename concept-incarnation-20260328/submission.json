@@ -1,0 +1,6 @@
+{
+  "prompt": "photorealistic side-view inside an old stone mill, a single line of six wooden waterwheels connected only by runoff, the first wheel is large and driven by a strong torrent, the second receives less water, the third less again, each next wheel turns with visibly less force than the previous one, the last wheel is almost still with only a faint trickle reaching it, clear sequential loss of motion across many repeated stages, realistic wet wood iron hardware splashing water cinematic natural light, physically plausible, no text, no logos, no diagrams, no labels. Parameters: model=FLUX.1-dev; seed=1104748943; width=1344; height=1024; guidance_scale=3.5; num_inference_steps=28.",
+  "model": "FLUX.1-dev",
+  "concept": "vanishing gradients",
+  "metaphor": "A cascade of waterwheels, each powered only by weaker runoff from the previous wheel; energy fades layer by layer until the last wheel barely moves."
+}
