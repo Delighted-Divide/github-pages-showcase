@@ -1,0 +1,7 @@
+{
+  "prompt": "Single-frame editorial cover image for a long-form magazine story about wildlife collapse, built around the insight that monitored vertebrate wildlife populations have declined 73% on average since 1970. Show a museum specimen board of butterflies and moths on a dark archival surface. The surviving specimens cluster toward the left in vivid, fragile color, while most of the board has become empty positions, ghost outlines, pinholes, dust traces, and faint remains. Avoid charts, labels, legends, numbers, globes, thermometers, melting ice, clip-art infographic language, and multi-panel layouts. The image must read immediately without text: abundance turning into absence. Mood: elegiac, tactile, quietly devastating, editorial-magazine opener, dramatic museum lighting, distressed textures, strong left-to-right narrative of disappearance.",
+  "model": "Python 3 SVG composition (programmatic image authoring)",
+  "dataset_name": "WWF Living Planet Report 2024 / Living Planet Index",
+  "dataset_url": "https://livingplanet.panda.org/",
+  "insight": "Monitored vertebrate wildlife populations declined by 73% on average between 1970 and 2020."
+}
